@@ -1,3 +1,3 @@
-module github.com/phonis-maha/sp-authorization
+module github.com/phoenis-maha/sp-authorization
 
 go 1.21.1
